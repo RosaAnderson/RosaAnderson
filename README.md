@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=180&section=header&text=Anderson%20Rosa%20-%20AR%20Soluções&fontSize=30&fontColor=f1f1f1&animation=twinkling&fontAlignY=35"/>
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RosaAnderson&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaAnderson&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=25&theme=gotham&hide_border=true&order=5" height="150" width="310" alt="languages graph"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosaAnderson&radius=16&theme=gotham&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RosaAnderson&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1" height="250" width="500" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaAnderson&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=25&theme=gotham&hide_border=true&order=5" height="250" width="310" alt="languages graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosaAnderson&radius=16&theme=gotham&area=false&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"/>
 
 <!-- --
     [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RosaAnderson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
