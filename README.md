@@ -1,5 +1,4 @@
-### Olá, seja bem vindo...
-##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f1f1f1&height=180&section=header&text=Anderson%20Rosa%20-%20AR%20Soluções&fontSize=30&fontColor=0f0f0f&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RosaAnderson&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/>
